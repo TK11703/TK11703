@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on skills.github.com
-- 🌱 I’m currently learning Microsoft Power Platform and Github
+- 🌱 I’m currently learning Microsoft Power Platform and AI
